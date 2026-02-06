@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Inglês
 
-Hello, welcome to my profile. 😄 
+Hello, welcome to my profile. 💬
 
 I am starting my career as a computer engineer, exploring various projects in order to learn and improve my skills. 🌱
 
@@ -24,7 +24,7 @@ Currently, I don't have a main project. However, I use Github to present and sto
 
 ## Português (brasileiro)
 
-Olá, bem vindo ao meu perfil. 😄
+Olá, bem vindo ao meu perfil. 💬
 
 Estou iniciando minha carreira como engenheiro de computação, explorando diversos projetos buscando aprender e aperfeiçoar minhas habilidades. 🌱
 
