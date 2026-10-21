@@ -1,6 +1,6 @@
 # Welcome! Bem vindo!👋
 <div align="center">
-  <img src="file:///run/user/1000/doc/74ae9080/msp-exp430f5529lp-angled.png" alt="WAllPAPER" width="500">
+  <img src="https://github.com/user-attachments/assets/913d1553-054f-4220-bdaa-db162ce2cb44" alt="WAllPAPER" width="500">
 </div>
 
 <br>
